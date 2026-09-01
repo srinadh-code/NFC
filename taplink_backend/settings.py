@@ -125,3 +125,17 @@ MAILERS = {
         'BACKEND': 'django.core.mail.backends.console.EmailBackend',
     },
 }
+
+
+
+# taplink_backend/
+# │
+# ├── accounts/
+# ├── customers/
+# ├── cards/
+# ├── profiles/
+# ├── orders/
+# ├── analytics/
+# ├── notifications/
+# ├── core/
+# └── media/
